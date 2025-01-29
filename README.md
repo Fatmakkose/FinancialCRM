@@ -1,3 +1,96 @@
+ Financial CRM Uygulaması 
+
+Bu proje, kullanıcıların finansal durumlarını takip edebileceği, giriş ve kayıt işlemlerini gerçekleştirebileceği, pratik ve kullanıcı dostu bir Finansal CRM uygulamasıdır. Uygulama, Entity Framework ve MSSQL kullanılarak geliştirilmiş ve Windows Forms üzerinde çalışmaktadır.
+
+🚀 Proje Özellikleri
+
+Müşteri Bilgileri Yönetimi
+Kayıt ve Giriş: Kullanıcılar, giriş paneli üzerinden kayıt olabilir ve belirledikleri kullanıcı adı ve şifreyle giriş yapabilir.
+
+
+ Veritabanı Yönetimi
+- Güvenli ve Performanslı: MSSQL ile veriler güvenli ve yüksek performanslı bir şekilde yönetilir.
+- Kolay ORM: Entity Framework ile veritabanı işlemleri hızlı ve pratik bir şekilde gerçekleştirilir.
+
+ Kullanıcı Dostu Arayüz
+- Windows Forms: Kullanıcılar için sade, anlaşılır ve işlevsel bir arayüz tasarlanmıştır.
+
+---
+
+ 📋 Özellik Detayları
+
+ Giriş Paneli
+- Kullanıcılar, kayıt, giriş ve şifre yenileme işlemlerini bu panelden gerçekleştirebilir.  
+- Kullanıcı verileri dinamik olarak MSSQL veritabanındaki **User** tablosunda saklanır.
+
+ Kategoriler
+- Ana menüden istenilen kategoriye erişim sağlanır. Kullanıcılar işlemler ve analizler gerçekleştirebilir.
+
+ Dashboard
+- **Total Bakiye:** Kullanıcıların toplam bakiyesi görüntülenir.
+- **Son Dönem Faturaları:** Kullanıcıların en son fatura bilgileri listelenir.
+- **Son Gelen Havaleler:** En son havale işlemleri gösterilir.
+
+ Bankalar
+- Kullanıcılar, banka hesapları ile yapılan son 5 işlemi ve anlık banka bakiyelerini görüntüleyebilir.
+
+ Faturalar
+- Kullanıcılar yeni faturalarını sisteme ekleyebilir, ödedikleri faturaları silebilir, listeleyebilir ve düzenleyebilir.
+
+ Giderler
+- Kullanıcılar:
+  - Bu ay yaptıkları toplam harcama miktarını görüntüleyebilir.
+  - Son dönemde yaptıkları harcamaları analiz edebilir.
+  - Harcamalarını tablolar ve grafikler üzerinden inceleyebilir.
+
+ Çıkış Yap
+- Kullanıcılar, bu buton ile uygulamadan güvenli bir şekilde çıkış yapabilir.
+
+_________________________________________________________________________________________________________________________________________________________________________________________________
+
+ 🛠️ Kullanılan Teknolojiler
+
+- MSSQL: Güvenilir ve performanslı veritabanı altyapısı.
+- C# & Windows Forms: Kullanıcı arayüzü geliştirme ve uygulama mantığı.
+- Entity Framework: ORM işlemleri için kullanılan esnek ve hızlı çözüm.
+
+---
+
+ 📈 Neler Öğrendim?
+
+- Entity Framework: ORM kullanımıyla veritabanı işlemlerini hızlandırma ve esnek modelleme.  
+- Windows Forms: Kullanıcı dostu bir arayüz tasarlama ve geliştirme.  
+- MSSQL: Veritabanı tasarımı ve güvenlik konularında daha derin bir anlayış.  
+
+Bu proje, Entity Framework ve MSSQL ile veritabanı yönetiminin avantajlarını pratik bir uygulama ile birleştirerek yazılım geliştirme sürecindeki becerilerimi artırmama olanak tanıdı.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ekran Çıktıları 
 
 ![Image](https://github.com/user-attachments/assets/3df27c15-8cb6-4b51-94f3-25997ae9ccdb)
