@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|c:\\users\\fatma\\source\\repos\\myfinancialcrmm\\myfinancialcrmm\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|solutionrelative:myfinancialcrmm\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|c:\\users\\fatma\\source\\repos\\myfinancialcrmm\\myfinancialcrmm\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|solutionrelative:myfinancialcrmm\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\myfinancialcrmm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|solutionrelative:myfinancialcrmm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|c:\\users\\fatma\\source\\repos\\myfinancialcrmm\\myfinancialcrmm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|solutionrelative:myfinancialcrmm\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\myfinancialcrmm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|solutionrelative:myfinancialcrmm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|c:\\users\\fatma\\source\\repos\\myfinancialcrmm\\myfinancialcrmm\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|solutionrelative:myfinancialcrmm\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\myfinancialcrmm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|solutionrelative:myfinancialcrmm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\myfinancialcrmm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|solutionrelative:myfinancialcrmm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\myfinancialcrmm\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CD8933C-DAEC-4C02-A9C6-C3EDC1355E48}|MyFinancialCrmm\\MyFinancialCrmm.csproj|solutionrelative:myfinancialcrmm\\frmspendings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCategory.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "MyFinancialCrmm\\FrmCategory.cs",
+              "ToolTip": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmCategory.cs",
+              "RelativeToolTip": "MyFinancialCrmm\\FrmCategory.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwD4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:55:03.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "MyFinancialCrmm\\FrmCategory.cs",
+              "ToolTip": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmCategory.cs [Design]",
+              "RelativeToolTip": "MyFinancialCrmm\\FrmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:54:38.212Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "MyFinancialCrmm\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmLogin.cs",
+              "RelativeToolTip": "MyFinancialCrmm\\FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:19:36.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\Program.cs",
+              "RelativeDocumentMoniker": "MyFinancialCrmm\\Program.cs",
+              "ToolTip": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\Program.cs",
+              "RelativeToolTip": "MyFinancialCrmm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:02:16.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "MyFinancialCrmm\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "MyFinancialCrmm\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:17:39.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmRegister.cs",
+              "RelativeDocumentMoniker": "MyFinancialCrmm\\FrmRegister.cs",
+              "ToolTip": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmRegister.cs [Design]",
+              "RelativeToolTip": "MyFinancialCrmm\\FrmRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:44:56.178Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmBanks.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmBanks.cs",
+              "RelativeDocumentMoniker": "MyFinancialCrmm\\FrmBanks.cs",
+              "ToolTip": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmBanks.cs",
+              "RelativeToolTip": "MyFinancialCrmm\\FrmBanks.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwEgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:13:48.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBanks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmBanks.cs",
+              "RelativeDocumentMoniker": "MyFinancialCrmm\\FrmBanks.cs",
+              "ToolTip": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmBanks.cs [Design]",
+              "RelativeToolTip": "MyFinancialCrmm\\FrmBanks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:13:41.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmSpendings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmSpendings.cs",
+              "RelativeDocumentMoniker": "MyFinancialCrmm\\FrmSpendings.cs",
+              "ToolTip": "C:\\Users\\fatma\\source\\repos\\MyFinancialCrmm\\MyFinancialCrmm\\FrmSpendings.cs [Design]",
+              "RelativeToolTip": "MyFinancialCrmm\\FrmSpendings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:42:50.399Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
