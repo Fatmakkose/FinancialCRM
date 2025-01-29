@@ -1,5 +1,4 @@
-
-![Image](https://github.com/user-attachments/assets/977bab3c-2dc2-45b5-b371-5db2d2931602)
+Ekran Çıktıları 
 
 ![Image](https://github.com/user-attachments/assets/3df27c15-8cb6-4b51-94f3-25997ae9ccdb)
 
